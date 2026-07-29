@@ -3,4 +3,4 @@
 
 ## workflows
 
-TO CREATE GITHUB ACTIPNS
+TO CREATE GITHUB Actions u need folder .github/workflows
